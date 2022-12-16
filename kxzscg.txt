@@ -1,6 +1,6 @@
 
 name="COSMIC PRO V2 VMF LITE - LamBass"
-version="1.0"
+version="1.1"
 url="https://archive.org/download/kd20_cosprov2_1.0_VN/kd20_cosprov2_1.0_VN.zip"
 minor="http://"
 gui="http://"
@@ -14,7 +14,7 @@ info="http://"
 description="Skin Cosmic Pro by LamBass - fb.com/tofu.mamtom"
 
 name="COSMIC PRO V2 VMF FULL - LamBass"
-version="1.0"
+version="1.1"
 url="https://archive.org/download/kd20_cosprov2_1.0_VN/kd20_cosprov2_full_1.0_VN.zip"
 minor="http://"
 gui="http://"
