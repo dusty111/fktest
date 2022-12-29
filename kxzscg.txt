@@ -97,7 +97,7 @@ adult="no"
 info="http://"
 description="Skin Xonfluence PRO Mod by LamBass - fb.com/tofu.mamtom"
 
-name="XONFLUENCE PRO VMF + ELE - LamBass"
+name="XONFLUENCE PRO VMF ELE - LamBass"
 version="1.0"
 url="https://raw.githubusercontent.com/dusty111/zx2gfk/main/oxtxtza/k2x_vxf_ele_xcof_v1.zip"
 minor="http://"
